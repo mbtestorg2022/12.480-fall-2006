@@ -4,26 +4,285 @@ title: Lecture Notes
 uid: 13d68a73-247e-5223-26c6-a5506c2e8176
 ---
 
-| LEC # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part I: Solution properties of silicate minerals**{{< /td-colspan >}} |||
-| 1 | Ideal solutions |  {{< br >}}{{< br >}} ([PDF 1]({{< baseurl >}}/resources/lec1)) {{< br >}}{{< br >}} ([PDF 2]({{< baseurl >}}/resources/handout_1_06)) {{< br >}}{{< br >}}  |
-| 2 | Non-ideal solutions | ([PDF]({{< baseurl >}}/resources/handout_2a_06)) |
-| 3 | Alkali and plagioclase feldspars solution models | ([PDF]({{< baseurl >}}/resources/lec3)) |
-| 4 | Alkali and plagioclase feldspars solution models (cont.) |  {{< br >}}{{< br >}} ([PDF 1]({{< baseurl >}}/resources/12480handout_4_5)) {{< br >}}{{< br >}} ([PDF 2 - 1.0 MB]({{< baseurl >}}/resources/lec4n5)) {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Introduction to pyroxene thermometry {{< br >}}{{< br >}} Diopside - Enstatite {{< br >}}{{< br >}}  | See Lec #4 |
-| 6 | Thermodynamic properties of multi-site mineral solutions - Homogeneous equilibria | ([PDF]({{< baseurl >}}/resources/lec6)) |
-| 7 | Pyroxene thermometry II, the quad | ([PDF]({{< baseurl >}}/resources/lec7)) |
-| 8-9 | Spinels, rhombohedral oxides and T-ƒO2 relations | &nbsp; |
-| {{< td-colspan 3 >}}**Part II: Heterogeneous equilibria in geologic systems**{{< /td-colspan >}} |||
-| 10 | Heterogeneous equilibria in two - and three-component systems | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_10)) |
-| 11 | Liquidus diagrams - Liquidus boundaries | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_11)) |
-| 12 | Liquidus diagrams - Degeneracies and natural examples | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_12)) |
-| 13 | Liquidus diagrams - Thermodynamic controls on boundaries | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_13)) |
-| 14 | Schreinemaker's analysis - Multi-component systems | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_14)) |
-| 15 | Choosing components - Representations of composition space |  {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/lecture_15)) {{< br >}}{{< br >}} (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/lec_15_addition)) {{< br >}}{{< br >}}  |
-| 16 | Heterogeneous reactions - The Gibbs method | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_16)) |
-| 17 | Solution models for silicate melts-simple systems | &nbsp; |
-| 18 | Solution models for silicate melts-multicomponent systems | &nbsp; |
-| 19 | Thermodynamic models of multicomponent systems - MELTS | &nbsp; |
-| 20 | Mixed volatile equilibria P-T-XCO2\-XH2O |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: Solution properties of silicate minerals**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Ideal solutions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF 1]({{< baseurl >}}/resources/lec1))
+
+([PDF 2]({{< baseurl >}}/resources/handout_1_06))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Non-ideal solutions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/handout_2a_06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Alkali and plagioclase feldspars solution models
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Alkali and plagioclase feldspars solution models (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF 1]({{< baseurl >}}/resources/12480handout_4_5))
+
+([PDF 2 - 1.0 MB]({{< baseurl >}}/resources/lec4n5))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to pyroxene thermometry
+
+Diopside - Enstatite
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+See Lec #4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamic properties of multi-site mineral solutions - Homogeneous equilibria
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Pyroxene thermometry II, the quad
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Spinels, rhombohedral oxides and T-ƒO2 relations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: Heterogeneous equilibria in geologic systems**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Heterogeneous equilibria in two - and three-component systems
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Liquidus diagrams - Liquidus boundaries
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Liquidus diagrams - Degeneracies and natural examples
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Liquidus diagrams - Thermodynamic controls on boundaries
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Schreinemaker's analysis - Multi-component systems
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Choosing components - Representations of composition space
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/lecture_15))
+
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/lec_15_addition))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Heterogeneous reactions - The Gibbs method
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_16))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Solution models for silicate melts-simple systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Solution models for silicate melts-multicomponent systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamic models of multicomponent systems - MELTS
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Mixed volatile equilibria P-T-XCO2\-XH2O
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

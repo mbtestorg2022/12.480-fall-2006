@@ -45,25 +45,255 @@ Nicholls, J., and J. K. Russell, eds. _Reviews in Mineralogy._ Vol. 24, _Modern 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part I: Solution properties of silicate minerals**{{< /td-colspan >}} |||
-| 1 | Ideal solutions | &nbsp; |
-| 2 | Non-ideal solutions | &nbsp; |
-| 3-4 | Alkali and plagioclase feldspars solution models | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} Introduction to pyroxene thermometry {{< br >}}{{< br >}} Diopside - Enstatite {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Thermodynamic properties of multi-site mineral solutions - Homogeneous equilibria | &nbsp; |
-| 7 | Pyroxene thermometry II, the quad | &nbsp; |
-| 8-9 | Spinels, rhombohedral oxides and T-ƒO2 relations | Problem set 1 due |
-| {{< td-colspan 3 >}}**Part II: Heterogeneous equilibria in geologic systems**{{< /td-colspan >}} |||
-| 10 | Heterogeneous equilibria in two - and three-component systems | &nbsp; |
-| 11 | Liquidus diagrams - Liquidus boundaries | &nbsp; |
-| 12 | Liquidus diagrams - Degeneracies and natural examples | &nbsp; |
-| 13 | Liquidus diagrams - Thermodynamic controls on boundaries | &nbsp; |
-| 14 | Schreinemaker's analysis - Multi-component systems | &nbsp; |
-| 15 | Choosing components - Representations of composition space | &nbsp; |
-| 16 | Heterogeneous reactions - The Gibbs method | &nbsp; |
-| 17 | Solution models for silicate melts-simple systems | &nbsp; |
-| 18 | Solution models for silicate melts-multicomponent systems | Problem set 2 due |
-| 19 | Thermodynamic models of multicomponent systems - MELTS | &nbsp; |
-| 20 | Mixed volatile equilibria P-T-XCO2\-XH2O |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: Solution properties of silicate minerals**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Ideal solutions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Non-ideal solutions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Alkali and plagioclase feldspars solution models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to pyroxene thermometry
+
+Diopside - Enstatite
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamic properties of multi-site mineral solutions - Homogeneous equilibria
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Pyroxene thermometry II, the quad
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Spinels, rhombohedral oxides and T-ƒO2 relations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: Heterogeneous equilibria in geologic systems**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Heterogeneous equilibria in two - and three-component systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Liquidus diagrams - Liquidus boundaries
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Liquidus diagrams - Degeneracies and natural examples
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Liquidus diagrams - Thermodynamic controls on boundaries
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Schreinemaker's analysis - Multi-component systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Choosing components - Representations of composition space
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Heterogeneous reactions - The Gibbs method
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Solution models for silicate melts-simple systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Solution models for silicate melts-multicomponent systems
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamic models of multicomponent systems - MELTS
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Mixed volatile equilibria P-T-XCO2\-XH2O
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
