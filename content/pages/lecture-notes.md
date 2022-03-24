@@ -154,7 +154,7 @@ Spinels, rhombohedral oxides and T-ƒO2 relations
 Heterogeneous equilibria in two - and three-component systems
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_10))
+([PDF]({{< baseurl >}}/resources/lecture_10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +166,7 @@ Heterogeneous equilibria in two - and three-component systems
 Liquidus diagrams - Liquidus boundaries
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_11))
+([PDF]({{< baseurl >}}/resources/lecture_11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +178,7 @@ Liquidus diagrams - Liquidus boundaries
 Liquidus diagrams - Degeneracies and natural examples
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_12))
+([PDF]({{< baseurl >}}/resources/lecture_12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +190,7 @@ Liquidus diagrams - Degeneracies and natural examples
 Liquidus diagrams - Thermodynamic controls on boundaries
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_13))
+([PDF]({{< baseurl >}}/resources/lecture_13))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +202,7 @@ Liquidus diagrams - Thermodynamic controls on boundaries
 Schreinemaker's analysis - Multi-component systems
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_14))
+([PDF]({{< baseurl >}}/resources/lecture_14))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,9 +216,9 @@ Choosing components - Representations of composition space
 {{< tdopen >}}
 
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/lecture_15))
+([PDF 1]({{< baseurl >}}/resources/lecture_15))
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/lec_15_addition))
+([PDF 2]({{< baseurl >}}/resources/lec_15_addition))
 
 
 {{< tdclose >}}
@@ -232,7 +232,7 @@ Choosing components - Representations of composition space
 Heterogeneous reactions - The Gibbs method
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_16))
+([PDF]({{< baseurl >}}/resources/lecture_16))
 {{< tdclose >}}
 
 {{< trclose >}}
